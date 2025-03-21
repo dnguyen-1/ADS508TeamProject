@@ -9,7 +9,7 @@ Rising energy costs and workplace inefficiencies are driving the need for smarte
 ## Installation
 Navigate to [installation requirement](installation/Installation%20%26%20Set-Up.ipynb) to ensure your environment is set up to execute the model in Sagemaker AI
 
-## Usage
+## Problem statement and Solution
 
 Both businesses and individual consumers struggle with energy inefficiency. Unnecessary power consumption, poor scheduling, and lack of real-time information lead to higher costs and an increased carbon footprint. Consumers often leave appliances running longer than needed, while businesses fail to optimize resources and equipment usage.
 
