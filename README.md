@@ -6,13 +6,8 @@ Authors: Duy Nguyen, Jordan Torres, Kirsten -Drennen
 ## Overview
 Rising energy costs and workplace inefficiencies are driving the need for smarter solutions. Our AI-powered systems analyze real-time energy grid data, smart meters, and patterns to automate energy-saving decisions. By detecting waste and burnout risk, EcoGrid AI recommends smart shutdowns and efficiency boosts. Helping customers cut costs, lower carbon footprints, and enhance wellbeing.
 
-## Table of Contents
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
-## Installtion
+## Installation
+Navigate to [View the notebook](notebooks/your_notebook.ipynb)
 
 ## Usage
 
