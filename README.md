@@ -15,6 +15,8 @@ Both businesses and individual consumers struggle with energy inefficiency. Unne
 
 Our AI-powered solution analyzes smart meter data, grid trends, and workplace activity to automate energy-saving decisions and optimize work schedules. By detecting wasteful energy consumption and patterns linked to inefficiency, our system provides smart recommendations that help both customers and businesses reduce energy consumption while improving sustainability.
 
+## Source and References
+
 
 
 
