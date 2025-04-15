@@ -1,7 +1,7 @@
 # Ecogrid AI - Real-Time Grid Monitoring
 
 ## Authors
-Authors: Duy Nguyen, Jordan Torres, Kirsten -Drennen
+Authors: Duy Nguyen, Jordan Torres, Kirsten Drennen
 
 ## Overview
 Rising energy costs and workplace inefficiencies are driving the need for smarter solutions. Our AI-powered systems analyze real-time energy grid data, smart meters, and patterns to automate energy-saving decisions. By detecting waste and burnout risk, EcoGrid AI recommends smart shutdowns and efficiency boosts. Helping customers cut costs, lower carbon footprints, and enhance wellbeing.
@@ -37,6 +37,7 @@ Data sourced from the U.S. Energy Information Administration, extracted by an ap
 *	Electricity interchange with neighboring countries
 
 ## Presentation and Notebook
+Data processing and model training - https://github.com/dnguyen-1/ADS508TeamProject/blob/main/gridAI_training.ipynb
 
 
 
