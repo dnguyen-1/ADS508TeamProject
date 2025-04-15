@@ -31,13 +31,12 @@ Our AI-powered solution analyzes smart meter data, grid trends, and workplace ac
 ## Data Sources
 
 Data sourced from the U.S. Energy Information Administration, extracted by an application programming interface (API), and stored on AWS service S3 Bucket to be processed in AWS Sagemaker. Daily usage of megawatt hours were ingested for the period of 1/1/2024 to 12/31/2024 for the following 
-•	Electricity Overview (demand, forecast demand, generation, and total interchange)
-•	Electricity demand by region
-•	Electricity generation by energy source
-•	Electricity interchange with neighboring countries
+*	Electricity Overview (demand, forecast demand, generation, and total interchange)
+*	Electricity demand by region
+*	Electricity generation by energy source
+*	Electricity interchange with neighboring countries
 
-
-
+## Presentation and Notebook
 
 
 
